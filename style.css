@@ -8,20 +8,20 @@
   
   /* header */
   header {
-    background-color: #F5CEC7;
+    background-color: #D3eee1;
     padding: 10px;
     text-align: center;
     border-radius: 10px;
   }
   /* social media buttons */
   .social {
-    background-color: #F5CEC7;
+    background-color: #D3eee1;
     width:42%;
     float: right;
   }
 
   .menu {
-    background-color: #F5CEC7;
+    background-color: #D3eee1;
     width:55%;
     margin-right:2%;
     float: left;
@@ -41,15 +41,15 @@
     letter-spacing: 0.20rem;
     text-transform: uppercase;
     color: black;
-    text-shadow: 4px 4px #f09b93,
-                 8px 8px #ebd6d7,
-                 12px 12px #f9ebd9,
-                 16px 16px #e9dd8a,
-                 20px 20px #439093,
-                 24px 24px #f09b93,
-                 28px 28px #ebd6d7,
-                 32px 32px #f9ebd9,
-                 36px 36px #e9dd8a;
+    text-shadow: 4px 4px #ca7e8d,
+                 8px 8px #F0A35E,
+                 12px 12px #E6B655,
+                 16px 16px #70AE98,
+                 20px 20px #ADDDCE,
+                 24px 24px #ca7e8d,
+                 28px 28px #F0A35E,
+                 32px 32px #E6B655,
+                 36px 36px #70AE98;
   }
   
   h2 {
@@ -74,7 +74,7 @@
   }
   /* set background color of site */
   body {
-    background-color: #F5CEC7;
+    background-color: #D3eee1;
   }
   
   /* Container for flexboxes */
@@ -94,12 +94,12 @@
     -webkit-flex: 3;
     -ms-flex: 3;
     flex: 3;
-    background-color: #f9ebd9;
+    background-color: #adddce;
     padding: 3px;
     padding-block-end: 10px;
     border-radius: 30px;
     border-style: solid;
-    border-color: #F5CEC7;
+    border-color: #D3eee1;
     border-width: 10px;
   }
   /* style tech stack box */
@@ -118,14 +118,9 @@
     text-align: center;
   }
 
-  /* style blog posts */
-  article.blog_post {
-    background-color: white;
-    text-align: center;
-  }
   /* footer */
   footer {
-    background-color: #F5CEC7;
+    background-color: #D3eee1;
     padding: 5px;
     text-align: center;
     color: black;
