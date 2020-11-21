@@ -77,6 +77,10 @@
     color: #000000;
   }
 
+  h5.tdetails {
+    color: #439093
+  }
+
   /* set background color of site */
   body {
     background-color: #D3eee1;
