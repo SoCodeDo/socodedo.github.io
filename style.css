@@ -72,6 +72,11 @@
     margin-bottom: 20px;
   
   }
+
+  h4.title {
+    color: #ca7e8d;
+  }
+  
   /* set background color of site */
   body {
     background-color: #D3eee1;
