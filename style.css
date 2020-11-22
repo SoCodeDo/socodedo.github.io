@@ -146,11 +146,12 @@
 
   /* Dropdown Button */
 .dropbtn {
-  background-color: #4CAF50;
+  background-color: #439093;
   color: white;
   padding: 16px;
   font-size: 16px;
   border: none;
+  border-radius: 30px;
 }
 
 /* The container <div> - needed to position the dropdown content */
