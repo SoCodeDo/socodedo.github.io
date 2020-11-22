@@ -145,11 +145,18 @@
     text-align: left;
   }
 
-  img.rain_or_shine {
+  img.doggy1 {
     border-radius: 30px;
     align-items: center;
     align-content: center;
     align-self: center;
+  }
+
+  img.doggy1 {
+    border-radius: 30px;
+    align-items: left;
+    align-content: left;
+    align-self: left;
   }
 
   /* Dropdown box CSS */
