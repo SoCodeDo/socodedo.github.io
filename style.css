@@ -16,7 +16,7 @@
   /* social media buttons */
   .social {
     background-color: #D3eee1;
-    width:42%;
+    width:50%;
     float: right;
   }
 
@@ -78,6 +78,10 @@
   }
 
   h5.tdetails {
+    color: #439093
+  }
+
+  h6 {
     color: #439093
   }
 
