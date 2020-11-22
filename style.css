@@ -147,9 +147,10 @@
 
   img.doggy1 {
     border-radius: 30px;
-    align-items: center;
-    align-content: center;
-    align-self: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
 
   img.doggy2 {
