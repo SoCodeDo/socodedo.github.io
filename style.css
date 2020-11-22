@@ -147,6 +147,8 @@
 
   img.rain_or_shine {
     border-radius: 30px;
+    align-items: center;
+    align-content: center;
   }
 
   /* Dropdown box CSS */
