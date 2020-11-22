@@ -72,6 +72,10 @@
 
   h4.title {
     color: #000000;
+    text-align: left;
+  }
+  h4.resume_link {
+    color: #000000;
     text-align: center;
   }
 
@@ -107,7 +111,7 @@
     flex: 3;
     background-color: #adddce;
     padding: 3px;
-    padding-block-end: 10px;
+    padding-block-end: 5px;
     border-radius: 30px;
     border-style: solid;
     border-color: #D3eee1;
