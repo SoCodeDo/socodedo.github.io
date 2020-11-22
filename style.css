@@ -17,7 +17,7 @@
   .social {
     background-color: #D3eee1;
     width:42%;
-    float: right;
+    float: left;
   }
 
   /* .menu {
@@ -110,8 +110,8 @@
     -ms-flex: 3;
     flex: 3;
     background-color: #adddce;
-    padding: 3px;
-    padding-block-end: 5px;
+    /* padding: 3px; */
+    /* padding-block-end: 5px; */
     border-radius: 30px;
     border-style: solid;
     border-color: #D3eee1;
@@ -155,7 +155,7 @@
   /* padding: 16px; */
   font-size: 16px;
   border: none;
-  border-radius: 20px;
+  border-radius: 25px;
 }
 
 /* The container <div> - needed to position the dropdown content */
