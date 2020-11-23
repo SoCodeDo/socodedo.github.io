@@ -155,9 +155,7 @@
 
   img.doggy2 {
     border-radius: 30px;
-    align-items: left;
-    align-content: left;
-    align-self: left;
+    float: left;
   }
 
   /* Dropdown box CSS */
@@ -169,7 +167,7 @@
   /* padding: 16px; */
   font-size: 16px;
   border: none;
-  border-radius: 28px;
+  border-radius: 32px;
 }
 
 /* The container <div> - needed to position the dropdown content */
