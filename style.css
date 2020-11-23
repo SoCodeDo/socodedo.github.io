@@ -156,6 +156,7 @@
   img.doggy2 {
     border-radius: 30px;
     float: left;
+    padding: 10px;
   }
 
   /* Dropdown box CSS */
